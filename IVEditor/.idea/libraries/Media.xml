@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Media">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Brock_packages/Media.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
